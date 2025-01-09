@@ -37,7 +37,7 @@ public class Rettangolo {
         int sommaAree = r1.calcArea() + r2.calcArea();
         int sommaPerimetri = r1.calcPerimetro() + r2.calcPerimetro();
 
-        System.out.println("\nSomma delle aree: " + sommaAree);
+        System.out.println("Somma delle aree: " + sommaAree);
         System.out.println("Somma dei perimetri: " + sommaPerimetri);
     }
 }
